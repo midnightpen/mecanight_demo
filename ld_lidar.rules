@@ -1,0 +1,2 @@
+SUBSYSTEM=="tty", KERNEL=="ttyAMA0", ATTR{iomem_base}=="0x1F00030000", SYMLINK+="ld_lidar", MODE="0777", GROUP="dialout"
+

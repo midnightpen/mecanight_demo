@@ -1,0 +1,1 @@
+SUBSYSTEMS=="usb", ATTRS{idProduct}=="ea60", ATTRS{idVendor}=="10c4", ATTRS{serial}=="94138528dbfeec1196466d508ce70331", ATTRS{urbnum}=="135479",  SYMLINK+="lidar", MODE="0777"
